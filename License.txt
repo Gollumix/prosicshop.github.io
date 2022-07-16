@@ -1,0 +1,6 @@
+License Type:
+	BeerWare 
+	Free To Use or Change 
+
+Copyright: 
+	Bartłomiej Makaruk 2020-2022
